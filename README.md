@@ -1,0 +1,1 @@
+Joerg Hoffmann's Metric-FF PDDL planner, updated to compile on recent versions of Mac OSX.  See original at [https://fai.cs.uni-saarland.de/hoffmann/metric-ff.html](https://fai.cs.uni-saarland.de/hoffmann/metric-ff.html)
